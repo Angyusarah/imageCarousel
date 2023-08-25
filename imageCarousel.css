@@ -1,0 +1,26 @@
+body{
+    border: 1px solid rgb(150, 147, 147);
+    padding: 40px 40px 10px;
+    margin: 20px 35%;
+    box-shadow: 5px 5px 5px 10px rgb(226, 221, 221);
+}
+
+img{
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+div{
+    line-height: 10px;
+    border: 1px solid rgb(131, 128, 128);
+    padding: 20px;
+    font-size: 20px;
+}
+
+i{
+    line-height: 20px;
+}
+
+#last{
+    line-height: 20px;
+}
